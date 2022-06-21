@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "User admin",
+  "email": "admin@email.com",
+  "document": "195.087.480-01",
+  "phone": "(82) 9955-6633",
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZG9jdW1lbnQiOiIxOTUwODc0ODAwMSJ9.hqLGSOEeg0ZvEAnVBWTsGAGQv3xbwqOQxwMUEIyBgvk"
+}
